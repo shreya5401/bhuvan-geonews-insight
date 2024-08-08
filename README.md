@@ -3,7 +3,7 @@
 ## Overview
 This project is a web-based platform designed to showcase nationally important news articles on a map of India. The platform uses various machine learning and natural language processing techniques to classify news articles and map them to relevant locations across India.
 
-![Website Overview](image/link.png)
+![Website Overview](images/link.png)
 
 ## Features
 - **Web Scraping**: Gathered news articles from major sources such as Indian Express, NDTV, India Today, and India TV using BeautifulSoup.
@@ -33,7 +33,7 @@ This project is a web-based platform designed to showcase nationally important n
     ```
 3. Download the spaCy language model:
     ```bash
-    python -m spacy download en_core_web_sm
+    python -m spacy download en_core_web_lg
     ```
 
 ### Frontend Setup (WEB_GUI)
